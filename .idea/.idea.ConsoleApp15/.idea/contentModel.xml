@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kirichenko\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\kirichenko\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\kirichenko\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\kirichenko\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kirichenko\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_ConsoleApp15.-1592285136.00" t="ExcludeRecursive" />
+    <e p="C:\WLCR\github\ConsoleApp15" t="IncludeFlat">
+      <e p="ConsoleApp15" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleApp15.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+        <e p="TopLevel.fs" t="Include" />
+      </e>
+      <e p="ConsoleApp15.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
